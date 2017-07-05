@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This project prepares an HTML document for layout without using the Internet. All external dependencies are transferred to the repository.
 
 # Project Goals
 
